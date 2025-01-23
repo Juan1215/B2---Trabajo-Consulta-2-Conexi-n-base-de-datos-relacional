@@ -48,8 +48,19 @@ Doobie: Es una biblioteca Scala pura para trabajar con JDBC. Se centra en propor
 Cómo establecer una conexión a una base de datos relacional (mysql). Siga los siguientes pasos:
 
 * Genere una base de datos en mysql
+   * Base de datos generada en MySQL Workbench 
+![image](https://github.com/user-attachments/assets/57183903-da1d-4417-acb0-183a5bd36fbb)
+
 * Genere una tabla con datos de prueba
+  * Tabla generada en la base de datos jdbc:
+    
+![image](https://github.com/user-attachments/assets/35badefc-0320-4a5b-b27d-51a3bf4c6bc7)
+
+
 * Desde Scala establezca la conexión a la base datos
+   * Conexion establecida en Scala con la base de datos:
+     
+![image](https://github.com/user-attachments/assets/c03bc650-bae2-451d-801a-18222d6ae623)
 
 --- 
 
